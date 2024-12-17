@@ -1,3 +1,2 @@
 hello
-this my new file with an update 
-and new row
+this my new file
